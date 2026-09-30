@@ -1,0 +1,15 @@
+{
+  "name": "CASE UNKNOWN",
+  "short_name": "CASE UNKNOWN",
+  "description": "企業の「原因のよく分からない問題」を、コンサルタントとして解き明かすビジネス・ミステリー",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0c0e",
+  "theme_color": "#0b0c0e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
